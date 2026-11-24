@@ -2,7 +2,7 @@
 
 Um conselho de agentes de IA que revisa repositórios do GitHub: cada especialista analisa o código de um ângulo, um tech lead consolida e o resultado vira um relatório.
 
-> 📸 _Print da tela de análise_
+![Topologia dos agentes depois de uma análise](docs/topologia.png)
 
 ## Sobre
 
@@ -17,6 +17,11 @@ Revisar um repositório desconhecido leva tempo: entender a arquitetura, procura
 - **Prompts editáveis** para cada agente
 - **Relatório em Markdown** salvo localmente, com histórico das análises
 - Repositórios públicos ou privados (com token do GitHub)
+
+## Telas
+
+![Relatório consolidado do tech lead](docs/relatorio.png)
+<sub>Relatório consolidado do tech lead</sub>
 
 ## Requisitos
 
